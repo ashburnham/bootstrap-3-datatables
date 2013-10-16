@@ -3,7 +3,7 @@
   "description": "DataTables with bindings for Twitter Bootstrap 3. Without the CSS.",
   "homepage": "https://github.com/Ore4444/meteor-datatables",
   "author": "Will Swannell",
-  "version": "0.0.1",
+  "version": "undefined",
   "git": "https://github.com/Ore4444/meteor-datatables.git",
   "packages": {
     "datatables": {}
