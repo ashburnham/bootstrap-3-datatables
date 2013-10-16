@@ -4,5 +4,8 @@
   "homepage": "https://github.com/Ore4444/meteor-datatables",
   "author": "Will Swannell",
   "version": "0.0.1",
-  "git": "https://github.com/Ore4444/meteor-datatables.git"
+  "git": "https://github.com/Ore4444/meteor-datatables.git",
+  "packages": {
+    "datatables": {}
+  }
 }
