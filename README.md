@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##What is it?
 This is a smart package built for use with Meteor and the Twitter Bootstrap library, using the [example defined here](http://datatables.net/blog/Twitter_Bootstrap_2) as a basis.
 
@@ -40,3 +41,9 @@ This is a smart package built for use with Meteor and the Twitter Bootstrap libr
     });
 
 You can learn more about the [DataTables API here](http://datatables.net/index).
+=======
+data-bootstrap-3
+================
+
+Datatables packages for meteor and with bootstrap 3 syntax but without the css
+>>>>>>> 293a3f5b5d165df4e2eb3a07a6a2799f4bbf5091
